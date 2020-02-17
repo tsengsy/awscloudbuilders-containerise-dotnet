@@ -58,12 +58,9 @@ Each step has been commented to describe what the step action.
     COPY --from=build /app ./
     ENTRYPOINT ["./aspnetapp"]
     
-{{% notice info %}}
 References:
-
 [dotnet restore](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-restore?tabs=netcore2x)
 [dotnet publish](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-publish?tabs=netcore21)
-{{% /notice %}}
 
 Save the file by pressing 
 
