@@ -1,0 +1,39 @@
+baseURL = "https://containerise.awsbuilders.cloud/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "AWS Cloud Builders - Meetup - Containerise"
+theme = "learn"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+uglyurls = true
+sectionPagesMenu = "main"
+pygmentsCodeFences = true
+pygmentsStyle = "monokai"
+
+[params]
+  description = "AWS Cloud Builders - Containerise"
+  author = "AWS DNB Team"
+  disableBreadcrumb = false
+  disableNextPrev = false
+  themeVariant = "aws"
+  disableSearch = false
+  disableAssetsBusting = true
+  disableLanguageSwitchingButton = false
+  disableShortcutsTitle = true
+  disableInlineCopyToClipBoard = true
+  showVisitedLinks = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[blackfriday]
+plainIDAnchors = true
+hrefTargetBlank = true
+
+[Languages]
+[Languages.en]
+title = "AWS Cloud Builders - Meetup - Containerise"
+weight = 1
+languageName = "English"
