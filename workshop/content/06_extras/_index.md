@@ -5,5 +5,5 @@ weight = 6
 chapter = true
 +++
 
-## Auto scalling and flooding the application
+## Auto scaling and flooding the application
 ## Log details about container - xray, cloudwatch, insights 

@@ -11,7 +11,7 @@ Github is popular among software developers as it simplifies the process of coll
 
 Forking a repository allows you to freely change the code of a repository without affecting the original github account. Most commonly, forks are used to either propose changes to a project or to use the repository as a starting point for a new project.
 
-You'll be forking a public repository containing a .NET application that needs to be containerised. All commits made to the forked repository will trigger a CI/CD pipleine which will deploy ECS/Fargate containers.
+You'll be forking a public repository containing a .NET application that needs to be containerised. All commits made to the forked repository will trigger a CI/CD pipeline which will deploy ECS/Fargate containers.
 
 As an alternative, AWS CodeCommit is a fully-managed source control service that hosts secure Git-based repositories. It makes it easy for teams to collaborate on code in a secure and highly scalable ecosystem. CodeCommit eliminates the need to operate your own source control system or worry about scaling its infrastructure. [Click here](https://aws.amazon.com/codecommit/) to learn more
 
@@ -33,7 +33,7 @@ Wait for Github to copy the repository and save into your account.
 
 ![forking](/images/setup/setup_04_forkGithub_4_forking.png)
 
-Now, copy the repository url and save as you'll be using this for the followin steps.
+Now, copy the repository url and save as you'll be using this for the following steps.
 
 ![url](/images/setup/setup_04_forkGithub_5_url.png)
 
