@@ -85,7 +85,7 @@ Run the image in the background and expose the port 8000.
 
     docker run --rm -d -it -p 8000:80 awsbuilders-dotnet
 
-Use the command `curl` to comfirm the container is serving the webpage.
+Use the command `curl` to confirm the container is serving the webpage.
 
     curl http://0.0.0.0:8000
     

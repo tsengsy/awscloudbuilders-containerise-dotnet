@@ -6,7 +6,7 @@ weight = 1
 
 ## CI/CD
 
-Continuous Integration (also known as CI) is a development practice used by developers to store code using shared repositories. During the day, changes are commited on the remote server, which can trigger automated pipelines to test and build the application, allowing teams to detect problems earlier. Continuous integration is focused on creating and testing code automatically, as opposed to continuous delivery, which automates the entire process from software release to production.
+Continuous Integration (also known as CI) is a development practice used by developers to store code using shared repositories. During the day, changes are committed on the remote server, which can trigger automated pipelines to test and build the application, allowing teams to detect problems earlier. Continuous integration is focused on creating and testing code automatically, as opposed to continuous delivery, which automates the entire process from software release to production.
 
 Continuous delivery (also known as CD) is a software development methodology in which automates the release process. Every software change can be set up to build, tested and deployed automatically in production. Before final shipment to production, a person, an automated test, or a business rule decides when the final deployment should take place. While all successful software changes can be launched immediately for production with continuous delivery, not all changes need to be released immediately.
 

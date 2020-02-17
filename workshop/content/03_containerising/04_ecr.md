@@ -51,6 +51,6 @@ Let’s recap.
 2. Built your Docker image
 3. Provisioned ECR
 
-Now, you need to upload your image to your remote registery.
+Now, you need to upload your image to your remote registry.
 
 Use the commands 1, 3 and 4 from the ECR push commands window in order to upload your image.

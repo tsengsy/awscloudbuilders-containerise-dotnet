@@ -7,7 +7,7 @@ weight = 1
 
 ## Lab Requirements
 
-To procced with the following tasks, please ensure that you have the requirements below.
+To proceed with the following tasks, please ensure that you have the requirements below.
 
 + AWS Account with full admin rights
 + AWS Credit Voucher

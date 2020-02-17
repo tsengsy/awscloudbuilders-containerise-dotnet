@@ -42,7 +42,7 @@ The codepipeline using webhooks will automatically trigger your pipeline if any 
 
 ![](/images/pipeline/pipeline_buildingpipeline_6.png)
 
-Select `AWS Codebuild` as a build provier and click on `Create Project`.
+Select `AWS Codebuild` as a build provider and click on `Create Project`.
 
 ![](/images/pipeline/pipeline_buildingpipeline_7.png)
 
