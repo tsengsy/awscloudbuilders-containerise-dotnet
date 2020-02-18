@@ -28,7 +28,7 @@ Now click on `awsbuilders-task-service`.
 
 ![](/images/pipeline/pipeline_exec_3.png)
 
-The events tab shows all steps taken during the 
+The events tab shows all steps taken by Amazon ECS during the deployment.
 
 ![](/images/pipeline/pipeline_exec_4.png)
 

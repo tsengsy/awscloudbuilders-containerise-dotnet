@@ -5,5 +5,6 @@ weight = 6
 chapter = true
 +++
 
-## Auto scaling and flooding the application
-## Log details about container - xray, cloudwatch, insights 
+![](/images/extra/extra_index_bonus.jpg)
+
+<!-- Photo licence: https://www.pxfuel.com/en/free-photo-qlhrw -->
