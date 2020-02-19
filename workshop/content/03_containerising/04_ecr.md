@@ -45,12 +45,12 @@ These are the commands and instructions to authenticate, build and push your ima
 
 ## Pushing the container to Amazon ECR
 
-Let’s recap.
+Let’s recap:
 
 1. You have successfully created a Dockerfile
 2. Built your Docker image
 3. Provisioned ECR
 
-Now, you need to upload your image to your remote registry.
+Now, all you need to do is upload your image to your remote registry.
 
 Use the commands 1, 3 and 4 from the ECR push commands window in order to upload your image.

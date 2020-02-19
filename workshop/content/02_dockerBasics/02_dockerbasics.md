@@ -32,11 +32,11 @@ Run `docker ps` to see that our nginx container is running.
 
     docker ps
 
-We will now use the “curl” command to verify that the NGINX container is working and returning the default index.html file.
+We will now use the "curl" command to verify that the nginx container is working and returning the default index.html file.
 
     curl http://localhost:8080
 
-Running `docker logs nginx` shows us the logs produced by nginx and the container. You should see some events that correspond to our curl requests.
+Running `docker logs nginx` shows us the logs produced by nginx and the container. You should see some events which corresponds to our curl requests.
 
     docker logs nginx
 
@@ -57,7 +57,7 @@ Now run `docker stop nginx` to stop the container.
 
     docker stop nginx
 
-Try `docker ps -a` command and you should see that our container is still there but stopped. At this point it could be restarted with a `docker start nginx` if we wanted.
+Try `docker ps -a` command and you should see that our container is still there but stopped. At this point, the docker container can be restarted with a `docker start nginx` if we wanted.
 
     docker ps -a
 
@@ -81,7 +81,7 @@ Run `cat Dockerfile` to see our simple `Dockerfile` - this is just adding the lo
 
     cat Dockerfile
 
-Use `docker build -t nginx:1.0 .` to build NGINX from our Dockerfile. The -t command directs the docker to package nginx with the name:tag format
+Use `docker build -t nginx:1.0 .` to build nginx from our Dockerfile. The -t command directs the docker to package nginx with the name:tag format
 
     docker build -t nginx:1.0 .
 
